@@ -1,0 +1,4 @@
+﻿  Vectori.c
+C:\Users\Giuliana\Desktop\CSIE\SDD\Vectori\Vectori.c(52): warning C4715: 'creareVector': not all control paths return a value
+C:\Users\Giuliana\Desktop\CSIE\SDD\Vectori\Vectori.c(96): warning C4715: 'mutare': not all control paths return a value
+  Vectori.vcxproj -> C:\Users\Giuliana\Desktop\CSIE\SDD\Vectori\x64\Debug\Vectori.exe
