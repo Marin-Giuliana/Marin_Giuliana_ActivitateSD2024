@@ -1,2 +1,5 @@
 ﻿  main.c
-  Project.vcxproj -> C:\Users\Giuliana\Desktop\Marin_Giuliana_ActivitateSD2024\x64\Debug\Project.exe
+C:\Users\Giuliana\Desktop\CSIE\SDD\Marin_Giuliana_ActivitateSD2024\Seminar2\main.c(45,56): warning C4013: 'streln' undefined; assuming extern returning int
+C:\Users\Giuliana\Desktop\CSIE\SDD\Marin_Giuliana_ActivitateSD2024\Seminar2\main.c(91,55): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+main.obj : error LNK2019: unresolved external symbol streln referenced in function copiazaNCalculatoare
+C:\Users\Giuliana\Desktop\CSIE\SDD\Marin_Giuliana_ActivitateSD2024\Seminar2\x64\Debug\Project.exe : fatal error LNK1120: 1 unresolved externals
